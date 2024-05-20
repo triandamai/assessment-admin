@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="228f2382-2700-42b8-8657-7980c5818eb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/editor/TipTap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composables/useFile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about/contact.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about/gallery.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/auth/sign-in.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/compose/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/edit/[id].vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/create.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/edit/[id].vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product/view/[id].vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/notifications.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/vuetify.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo-assessment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/api/contact.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/useAbout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/useAuth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/useBlog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/useProduct.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/data/about.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/data/blog.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/data/product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/model.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fZfxMAP6kXYX8SDuMEqD7m36Kz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/triandamai/Projects/assesment/assessment-admin/pages/about&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/triandamai/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/about" />
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/pages/product/edit" />
+      <recent name="$PROJECT_DIR$/pages/product/view" />
+      <recent name="$PROJECT_DIR$/pages/product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/blog/compose" />
+      <recent name="$PROJECT_DIR$/pages/blog/edit" />
+      <recent name="$PROJECT_DIR$/pages/blog" />
+      <recent name="$PROJECT_DIR$/types" />
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="228f2382-2700-42b8-8657-7980c5818eb8" name="Changes" comment="" />
+      <created>1714013766134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714013766134</updated>
+      <workItem from="1714013767344" duration="5146000" />
+      <workItem from="1714103075554" duration="3736000" />
+      <workItem from="1714141920617" duration="18404000" />
+      <workItem from="1714546736282" duration="16299000" />
+      <workItem from="1714617092231" duration="2493000" />
+      <workItem from="1715603927935" duration="601000" />
+      <workItem from="1715610766595" duration="10290000" />
+      <workItem from="1715660326255" duration="4785000" />
+      <workItem from="1715774619969" duration="225000" />
+      <workItem from="1715774933282" duration="684000" />
+      <workItem from="1715775873455" duration="5403000" />
+      <workItem from="1715823753167" duration="377000" />
+      <workItem from="1715824659473" duration="6852000" />
+      <workItem from="1715832811537" duration="4865000" />
+      <workItem from="1715955452521" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
