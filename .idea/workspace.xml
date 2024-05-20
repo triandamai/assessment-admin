@@ -5,32 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="228f2382-2700-42b8-8657-7980c5818eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/editor/TipTap.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composables/useFile.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middleware/auth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about/contact.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about/gallery.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/about/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/auth/sign-in.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/compose/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/edit/[id].vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/create.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/edit/[id].vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/view/[id].vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/notifications.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/vuetify.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo-assessment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/api/contact.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/useAbout.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/useAuth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/useBlog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/useProduct.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/data/about.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/data/blog.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/data/product.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types/model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/auth-v1-mask-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/auth-v1-mask-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/auth-v1-tree-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/auth-v1-tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/page-auth.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/editor/TipTap.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/editor/TipTap.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composables/useFile.ts" beforeDir="false" afterPath="$PROJECT_DIR$/composables/useFile.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about/contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/about/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/auth/sign-in.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/auth/sign-in.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/compose/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/compose/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blog/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product/create.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product/create.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/product/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/notifications.ts" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/notifications.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/vuetify.ts" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/vuetify.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/api/contact.ts" beforeDir="false" afterPath="$PROJECT_DIR$/server/api/contact.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/useAbout.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/useAbout.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/useAuth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/useAuth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/useBlog.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/useBlog.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/useProduct.ts" beforeDir="false" afterPath="$PROJECT_DIR$/store/useProduct.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/data/about.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/data/about.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/data/blog.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/data/blog.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/data/product.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/data/product.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types/model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/model.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +50,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "triandamai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/triandamai/assessment-admin.git",
+    "accountId": "8d9369b0-7268-4d1a-8e94-1366945be063"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -55,6 +69,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2fZfxMAP6kXYX8SDuMEqD7m36Kz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -126,6 +141,7 @@
       <workItem from="1715824659473" duration="6852000" />
       <workItem from="1715832811537" duration="4865000" />
       <workItem from="1715955452521" duration="72000" />
+      <workItem from="1716182058721" duration="923000" />
     </task>
     <servers />
   </component>

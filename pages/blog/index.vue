@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import UiParentCard from '@/components/shared/UiParentCard.vue';
+import UiParentCard from '~/components/shared/UiParentCard.vue';
 
 definePageMeta({
   middleware:['auth']
@@ -8,6 +8,10 @@ definePageMeta({
 const blog = useBlog()
 const search = ref("")
 
+onMounted(()=>{
+  blog.getListBlog()
+})
+
 </script>
 <template>
     <v-row>
@@ -15,7 +19,7 @@ const search = ref("")
             <UiParentCard title="Sample Page"> 
                 <div class="pa-7 pt-1">
                   <v-data-iterator
-                      :items="blog.content"
+                      :items="blog.blogs"
                       :items-per-page="3"
                       :search="blog.search"
                   >

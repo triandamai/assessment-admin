@@ -1,0 +1,1 @@
+export const itemsKeyContactInformation = ['Telp', 'Alamat', 'Email', 'Whatsapp', 'Instagram', 'Twitter', 'Jam Operasional', 'Kota', 'Provinsi', 'Map']
