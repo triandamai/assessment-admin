@@ -65,28 +65,28 @@ const sidebarItem: menu[] = [
         icon:MoodHappyIcon,
         to:'/about/gallery'
     },
-    { header: 'utilities' },
-    {
-        title: 'Typography',
-        icon: TypographyIcon,
-        to: '/ui/typography'
-    },
-    {
-        title: 'Shadow',
-        icon: CopyIcon,
-        to: '/ui/shadow'
-    },
-    { header: 'Extra' },
-    {
-        title: 'Icons',
-        icon: MoodHappyIcon,
-        to: '/icons'
-    },
-    {
-        title: 'Sample Page',
-        icon: ApertureIcon,
-        to: '/sample-page'
-    },
+    // { header: 'utilities' },
+    // {
+    //     title: 'Typography',
+    //     icon: TypographyIcon,
+    //     to: '/ui/typography'
+    // },
+    // {
+    //     title: 'Shadow',
+    //     icon: CopyIcon,
+    //     to: '/ui/shadow'
+    // },
+    // { header: 'Extra' },
+    // {
+    //     title: 'Icons',
+    //     icon: MoodHappyIcon,
+    //     to: '/icons'
+    // },
+    // {
+    //     title: 'Sample Page',
+    //     icon: ApertureIcon,
+    //     to: '/sample-page'
+    // },
 ];
 
 export default sidebarItem;

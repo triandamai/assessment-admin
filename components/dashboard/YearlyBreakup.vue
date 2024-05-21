@@ -4,42 +4,7 @@ import { useTheme } from "vuetify";
 const theme = useTheme();
 const primary = theme.current.value.colors.primary;
 const lightprimary = theme.current.value.colors.lightprimary;
-const chartOptions = computed(() => {
-  return {
-    labels: ["series-1", "series-2", "series-3"],
-    chart: {
-      type: "donut",
-      fontFamily: `inherit`,
-      foreColor: "#a1aab2",
-      toolbar: {
-        show: false,
-      },
-    },
-    colors: [primary, lightprimary, "#F9F9FD"],
-    plotOptions: {
-      pie: {
-        startAngle: 0,
-        endAngle: 360,
-        donut: {
-          size: "75%",
-          background: "transparent",
-        },
-      },
-    },
-    stroke: {
-      show: false,
-    },
 
-    dataLabels: {
-      enabled: false,
-    },
-    legend: {
-      show: false,
-    },
-    tooltip: { theme: "light", fillSeriesColor: false },
-  };
-});
-const Chart = [38, 40, 25];
 </script>
 <template>
   <v-card elevation="10" class="withbg">
@@ -82,14 +47,7 @@ const Chart = [38, 40, 25];
         </v-col>
         <v-col cols="5" sm="5" class="pl-lg-0">
           <div class="d-flex align-center flex-shrink-0">
-            <apexchart
-              class="pt-6"
-              type="donut"
-              height="145"
-              :options="chartOptions"
-              :series="Chart"
-            >
-            </apexchart>
+
           </div>
         </v-col>
       </v-row>
